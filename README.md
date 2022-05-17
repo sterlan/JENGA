@@ -1,3 +1,3 @@
 # JENGA
 
-The implementation of JENGA will be in C#. It 'll be uploaded soon.
+For the implementation of "JENGA in Unity", im gonna use C#. It 'll be uploaded soon.
